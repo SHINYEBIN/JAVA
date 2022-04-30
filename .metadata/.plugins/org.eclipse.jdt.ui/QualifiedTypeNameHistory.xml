@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="kr.co.ezen.chap01.condition.A_If"/>
+<fullyQualifiedTypeName name="kr.co.ezen.first.A_MethodPrinter"/>
+<fullyQualifiedTypeName name="kr.co.ezen.first.B_ValuePrinter"/>
+<fullyQualifiedTypeName name="kr.co.ezen.first.Hello"/>
+<fullyQualifiedTypeName name="kr.co.ezen.chap02.loop.C_DoWhile"/>
+<fullyQualifiedTypeName name="kr.co.ezen.silsub4.model.vo.Student"/>
+<fullyQualifiedTypeName name="com.hw1.model.vo.Product"/>
+<fullyQualifiedTypeName name="com.hw2.model.vo.Book"/>
+<fullyQualifiedTypeName name="com.hw3.view.EmpMenu"/>
+<fullyQualifiedTypeName name="com.hw3.model.vo.Employee"/>
+<fullyQualifiedTypeName name="com.method.hw1.sample.NonStaticSample"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="com.method.hw2.sample.NonStaticSample"/>
+<fullyQualifiedTypeName name="com.method.hw3.sample.StaticSample"/>
+<fullyQualifiedTypeName name="kr.co.ezen.chap01.part01_ObjectVsObjectArray.model.vo.Book"/>
+<fullyQualifiedTypeName name="kr.co.ezen.chap01.part02.PersonMVC.model.vo.Person"/>
+<fullyQualifiedTypeName name="kr.co.ezen.chap01.part02.PersonMVC.controller.PersonController"/>
+<fullyQualifiedTypeName name="kr.co.ezen.chap01.part02.PersonMVC.view.PersonMenu"/>
+<fullyQualifiedTypeName name="com.hw1.model.vo.Employee"/>
+<fullyQualifiedTypeName name="com.hw2.model.vo.Student"/>
+<fullyQualifiedTypeName name="com.hw3.model.vo.Product"/>
+<fullyQualifiedTypeName name="com.hw3.model.controller.ProductController"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.hw4.view.MemberMenu"/>
+<fullyQualifiedTypeName name="com.hw4.model.vo.Member"/>
+<fullyQualifiedTypeName name="com.hw4.controller.MemberController"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="java.awt.Frame"/>
+<fullyQualifiedTypeName name="com.wthread.example1.SoloFrame"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="model.vo.Coffee"/>
+<fullyQualifiedTypeName name="controller.CoffeeManager"/>
+<fullyQualifiedTypeName name="model.exception.CoffeeException"/>
+</qualifiedTypeNameHistroy>

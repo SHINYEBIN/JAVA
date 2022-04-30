@@ -1,0 +1,23 @@
+package com.inheri.example4;
+
+class B1{
+	int x;
+	
+}
+
+class B2 extends B1{
+	String x;
+	
+}
+
+public class InheritanceExample4 {
+
+	public static void main(String[] args) {
+		B2 b2=new B2();
+		b2.x="Java";
+		System.out.println("b2에 있는 x값:"+b2.x);
+	
+
+	}
+
+}
